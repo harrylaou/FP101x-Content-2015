@@ -1,9 +1,9 @@
 {-
  -- original statement
  N = a 'div' length xs
-	where
-		a = 10
-		xs = [1,2,3,4,5]
+  where
+    a = 10
+    xs = [1,2,3,4,5]
 -}
 
 
@@ -23,7 +23,7 @@ n =  a 'div' length xs
         xs = [1, 2, 3, 4, 5]
 -}
 
- {- 
+{-
 -- answer c
 n = a `div` length xs
 where
@@ -31,9 +31,8 @@ where
      xs = [1, 2, 3, 4, 5]
 -}
 
-{-
+
 -- answer d
 n = a `div` length xs
     where a = 10
           xs = [1,2,3,4,5]
--}
