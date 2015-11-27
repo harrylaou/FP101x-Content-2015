@@ -1,3 +1,4 @@
+module HW3_Ex2 where
 import Prelude hiding ((||))
 
 {-

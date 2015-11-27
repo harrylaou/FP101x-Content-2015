@@ -1,3 +1,5 @@
+module HW3_Ex1 where
+import Prelude hiding ((||))
 -- answer a
 safetaila xs = if null xs then [] else tail xs
 
